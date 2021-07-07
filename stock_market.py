@@ -3,7 +3,7 @@ import os
 import json
 import requests
 import time
-access_key = ' ' # Get you API key from http://api.marketstack.com and paste here...
+access_key = ' ' # Get you API key from https://marketstack.com/ and paste here...
 print('Stock checking app by Aditya!!')
 
 def get_stocks():
